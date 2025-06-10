@@ -243,7 +243,7 @@ const App: React.FC = () => {
         )}
       </main>
       <footer className="w-full max-w-4xl mt-12 text-center text-slate-500 text-sm">
-        <p>Powered by Google Gemini. API Key must be configured in environment variables.</p>
+        <p>Build By : <a href="fb.com/aisaklan"> Md Ajharul islam</a></p>
         <p>&copy; {new Date().getFullYear()} AI Blog Content Assistant. For demonstration purposes.</p>
       </footer>
     </div>
